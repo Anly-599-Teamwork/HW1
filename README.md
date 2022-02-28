@@ -1,104 +1,85 @@
-# My first HackMD note (change me!)
+# Group 9   Homework 1 Website Report
 
-###### tags: `Tag(change me!)`
+###### About US
 
-> This note is yours, feel free to play around.  :video_game: 
-> Type on the left :arrow_left: and see the rendered result on the right. :arrow_right: 
+> :arrow_right: We are an education consultancy group :mortar_board: who can provide you with better application experience and better decisions.	:bulb:
+>
 
-## :memo: Where do I start?
+Presented by:
 
-### Step 1: Change the title and add a tag
+- Zixuan Wang, zw306@georgetown.edu
+- Qinren Zhou, qz142@georgetown.edu
 
-- [x] Create my first HackMD note (this one!)
-- [ ] Change its title
-- [ ] Add a tag
+![](https://i.imgur.com/gBcyFMO.png)
+
+
+
+## :memo: Standardized Scores
+
+### **(1) GPA**
+
+- [ ] Admit, Decline, Waitlist
+- [ ] **Admit** :Higher average level of GPA
+- [ ] ==3.6== - Dividing Line 
 
 :rocket: 
+![](https://i.imgur.com/J0fd9xG.png)
 
-### Step 2: Write something in Markdown
 
-Let's try it out!
-Apply different styling to this paragraph:
-**HackMD gets everyone on the same page with Markdown.** ==Real-time collaborate on any documentation in markdown.== Capture fleeting ideas and formalize tribal knowledge.
 
-- [x] **Bold**
-- [ ] *Italic*
-- [ ] Super^script^
-- [ ] Sub~script~
-- [ ] ~~Crossed~~
-- [x] ==Highlight==
+### **(2) Test Score**
 
-:::info
-:bulb: **Hint:** You can also apply styling from the toolbar at the top :arrow_upper_left: of the editing area.
+- [ ] **Admit** :Higher average level of test score
+- [ ] ==950== - Dividing Line 
 
-![](https://i.imgur.com/Cnle9f9.png)
-:::
+:rocket: 
+![](https://i.imgur.com/9bhRk1F.png)
 
-> Drag-n-drop image from your file system to the editor to paste it!
 
-### Step 3: Invite your team to collaborate!
+### **(3) Writing Score**
 
-Click on the <i class="fa fa-share-alt"></i> **Sharing** menu :arrow_upper_right: and invite your team to collaborate on this note!
+- [ ] **Admit** :Higher average level of writing score
+- [ ] ==90== - Dividing Line 
 
-![permalink setting demo](https://i.imgur.com/PjUhQBB.gif)
+:rocket: 
+![](https://i.imgur.com/8wA4j1a.png)
 
-- [ ] Register and sign-in to HackMD (to use advanced features :tada: ) 
-- [ ] Set Permalink for this note
-- [ ] Copy and share the link with your team
+### **(4) Overview**
 
-:::info
-:pushpin: Want to learn more? ➜ [HackMD Tutorials](https://hackmd.io/c/tutorials) 
-:::
+- [ ] Testscore, GPA, Writingscore
+- [ ] **Admit** :High standardized scores :tada:
+- [ ] **Waitlist** :==Low test scores==
+
+:rocket: 
+![](https://i.imgur.com/OnamvF0.png)
+
+
+
+
+## :whale: Volunteer Level
+
+- ${1 \over 3}$ of the **admitted** students: ==[0,2]==
+- ${1 \over 2}$ of the **waitlist & declined** students: ==[3,5]==
+
+![](https://i.imgur.com/5jH8su6.png)
+
+
+
+## :pencil2: Conclusion
+
+
+
+|                   | Recommendations         |
+| ----------------- |:----------------------- |
+| :closed_book:GPA                | 3.6                     |
+| :green_book:Test Score          | 950                     |
+| :blue_book:Writing Score   	  | 90                      |
+| :sunflower:Volunteer Level   | Optional                |
 
 ---
 
-## BONUS: More cool ways to HackMD!
 
-- Table
-
-| Features          | Tutorials               |
-| ----------------- |:----------------------- |
-| GitHub Sync       | [:link:][GitHub-Sync]   |
-| Browser Extension | [:link:][HackMD-it]     |
-| Book Mode         | [:link:][Book-mode]     |
-| Slide Mode        | [:link:][Slide-mode]    | 
-| Share & Publish   | [:link:][Share-Publish] |
-
-[GitHub-Sync]: https://hackmd.io/c/tutorials/%2Fs%2Flink-with-github
-[HackMD-it]: https://hackmd.io/c/tutorials/%2Fs%2Fhackmd-it
-[Book-mode]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-book
-[Slide-mode]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-slide-deck
-[Share-Publish]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-publish-note
-
-- LaTeX for formulas
-
-$$
-x = {-b \pm \sqrt{b^2-4ac} \over 2a}
-$$
-
-- Code block with color and line numbers：
-```javascript=16
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-- UML diagrams
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-Note left of Alice: Alice responds
-Alice->Bob: Where have you been?
-```
-- Auto-generated Table of Content
-[ToC]
-
-> Leave in-line comments! [color=#3b75c6]
-
-- Embed YouTube Videos
-
-{%youtube PJuNmlE74BQ %}
-
-> Put your cursor right behind an empty bracket {} :arrow_left: and see all your choices.
-
-- And MORE ➜ [HackMD Tutorials](https://hackmd.io/c/tutorials)
+![](https://i.imgur.com/wvoVjka.png)
+:::info
+ Want to learn more? ➜ Welcome to consult with us :smiley:
+:::
